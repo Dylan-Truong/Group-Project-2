@@ -1,3 +1,3 @@
-DROP DATABASE IF EXISTS gamer-dashboard_db;
+DROP DATABASE IF EXISTS gamerdashboard_db;
 
-CREATE DATABASE gamer-dashboard_db;
+CREATE DATABASE gamerdashboard_db;
